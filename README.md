@@ -2,5 +2,5 @@
 snake game built with javascript
 
 CLICK for live preview
-https://arthurdev93.github.io/matrix-screen/snake-game-js
+https://arthurdev93.github.io/snake-game-js/
 
