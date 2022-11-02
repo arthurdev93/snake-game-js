@@ -1,4 +1,3 @@
-# snake-game-js
 snake game built with javascript
 
 CLICK for live preview
